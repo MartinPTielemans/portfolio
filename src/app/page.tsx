@@ -49,7 +49,7 @@ export default function Home() {
             transition={{ duration: 0.6 }}
             className="text-5xl font-bold mb-6"
           >
-            Hi, I'm <span className="text-blue-500">Martin Tielemans</span>
+            Hi, I&apos;m <span className="text-blue-500">Martin Tielemans</span>
           </motion.h1>
           <motion.p
             initial={{ opacity: 0 }}
