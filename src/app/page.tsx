@@ -80,7 +80,6 @@ export default function Home() {
           >
             Featured Projects
           </motion.h2>
-
           <motion.div
             variants={container}
             initial="hidden"
