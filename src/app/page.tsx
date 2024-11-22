@@ -1,5 +1,5 @@
 'use client';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 
 export default function Home() {
   // Fade in animation variant
@@ -80,6 +80,7 @@ export default function Home() {
           >
             Featured Projects
           </motion.h2>
+
           <motion.div
             variants={container}
             initial="hidden"
